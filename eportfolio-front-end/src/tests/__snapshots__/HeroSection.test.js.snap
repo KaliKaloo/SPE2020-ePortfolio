@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot for HeroSection UI 1`] = `
+<DocumentFragment>
+  <div
+    class="home__hero-section darkBg"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row home__hero-row"
+        style="display: flex; flex-direction: row;"
+      >
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-text-wrapper"
+          >
+            <div
+              class="top-line"
+            />
+            <div
+              class="heading dark"
+            />
+            <p
+              class="home__hero-subtitle dark"
+            />
+          </div>
+        </div>
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-img-wrapper"
+          >
+            <img
+              class="home__hero-img"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot for the whole App UI 1`] = `
+<DocumentFragment>
+  <div
+    class="home__hero-section darkBg"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row home__hero-row"
+        style="display: flex; flex-direction: row;"
+      >
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-text-wrapper"
+          >
+            <div
+              class="top-line"
+            >
+              Overview
+            </div>
+            <div
+              class="heading"
+            >
+              ePortfolio
+            </div>
+            <p
+              class="home__hero-subtitle"
+            >
+              Create a portfolio to showcase yourself and your work. Ideal for those students who want to catalogue their progress
+            </p>
+            <a
+              href="/register"
+            >
+              <button
+                class="btn btn--primary btn--wide blue"
+              >
+                Get Started
+              </button>
+            </a>
+            <a
+              class="login_text light"
+              href="/login"
+            >
+               Log in 
+            </a>
+          </div>
+        </div>
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-img-wrapper"
+          >
+            <img
+              alt="Credit Card"
+              class="home__hero-img"
+              src="images/svg-6.svg"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="home__hero-section"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row home__hero-row"
+        style="display: flex; flex-direction: row-reverse;"
+      >
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-text-wrapper"
+          >
+            <div
+              class="top-line"
+            >
+              EASY TO SETUP
+            </div>
+            <div
+              class="heading dark"
+            >
+              Simple to get started
+            </div>
+            <p
+              class="home__hero-subtitle dark"
+            >
+              Get everything set up and ready in under 5 minutes. All you need to do is add your information and you're ready to go.
+            </p>
+          </div>
+        </div>
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-img-wrapper"
+          >
+            <img
+              alt="Vault"
+              class="home__hero-img"
+              src="images/info.png"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="home__hero-section darkBg"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row home__hero-row"
+        style="display: flex; flex-direction: row;"
+      >
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-text-wrapper"
+          >
+            <div
+              class="top-line"
+            >
+              Easy to use
+            </div>
+            <div
+              class="heading"
+            >
+              Showcase your work in minutes 
+            </div>
+            <p
+              class="home__hero-subtitle"
+            >
+              Effortlessly add as many of your projects and work experiences to your portfolio. Also display your images or attach files ito each post.
+            </p>
+          </div>
+        </div>
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-img-wrapper"
+          >
+            <img
+              alt="Vault"
+              class="home__hero-img"
+              src="images/post.png"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="home__hero-section"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row home__hero-row"
+        style="display: flex; flex-direction: row-reverse;"
+      >
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-text-wrapper"
+          >
+            <div
+              class="top-line"
+            >
+              Easy to share
+            </div>
+            <div
+              class="heading dark"
+            >
+              Share your portfolio
+            </div>
+            <p
+              class="home__hero-subtitle dark"
+            >
+              Easily share your portfolio to anyone with just a simple link. 
+            </p>
+            <a
+              href="/register"
+            >
+              <button
+                class="btn btn--primary btn--wide blue"
+              >
+                Sign Up Now
+              </button>
+            </a>
+            <a
+              class="login_text dark"
+              href="/login"
+            >
+               Log in 
+            </a>
+          </div>
+        </div>
+        <div
+          class="col"
+        >
+          <div
+            class="home__hero-img-wrapper"
+          >
+            <img
+              alt="Vault"
+              class="home__hero-img"
+              src="images/share.png"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,18 @@
+.hub_container{
+    padding:10px;
+    margin-top: 5em;
+    height:30vh;
+    
+}
+
+.setting_hub{
+    width:20em;
+    float: left;
+}
+
+.settings_title{
+    font-size: 25px;
+    line-height: 4px;
+    color: #24292e;
+    margin-bottom: 30px;
+}

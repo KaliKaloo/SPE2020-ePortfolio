@@ -1,0 +1,81 @@
+
+.editpage {
+    text-align: center;
+    background-color: #ffffff;
+    height: 100vh;
+    padding: 80px;
+
+}
+
+.Add-Post-Component {
+    margin: auto;
+    width: 45em;
+}
+
+.editpage .rich-editor {
+    margin: auto;
+    width: 100%;
+    max-width: 900px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.editpage .rich-editor .rdw-editor-main {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #383b3b;
+}
+
+.rich-editor .DraftEditor-editorContainer {
+    padding: 0 1rem;
+    height: 250px;
+
+}
+
+.draft-editor-wrapper {
+    border: 1px solid #ccc;
+}
+
+.mb-3 {
+    max-width: 880px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.warning {
+    width: 100%;
+    font-size: 0.8em;
+}
+
+.dzu-dropzone {
+    background-color: white;
+    border: 2px dashed rgb(183, 201, 208);
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 1em;
+}
+
+.btn-secondary {
+    margin: 3px;
+    background-color: #6984aca6;
+}
+
+.btn-info {
+    margin: 3px;
+    background-color: #305997a6;
+}
+
+.btn-info:hover {
+    background-color: #e96759;
+}
+
+.drop-down {
+    width: 200px;
+    float: left;
+    display: inline-flex;
+}
+
+.post-buttons {
+    float: right;
+    display: inline-flex;
+
+}

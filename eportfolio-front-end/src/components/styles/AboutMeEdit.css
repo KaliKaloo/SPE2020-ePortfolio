@@ -1,0 +1,110 @@
+.aboutme-secton{
+    max-width: 300px;
+    margin: auto;
+}
+
+.save-cancel-edit-btn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.btn-light{
+    font-size: 14px;
+    border-style: solid;
+    border-color: #e7e7e7;
+    color: gray;
+    border-width: 2px;
+    width: 100%;
+    margin: 3px;
+}
+
+.btn-save {
+    max-width: 30%;
+}
+.btn-save:hover{
+    background-color: #e96759;
+}
+
+.SmallText_fullName {
+    font-family: sans-serif;
+    margin: 0 0 0 0%;
+    width: 100%;
+    border-radius: 5px; 
+    padding: 5px;
+    resize: none;
+    font-size: 20px;
+}
+
+.SmallText {
+    font-family: sans-serif;
+    margin: 0 0 0 0%;
+    width: 100%;
+    height: 30x;
+    border-radius: 5px; 
+    padding: 5px;
+    resize: none;
+    font-size: 15px;
+
+}
+textarea{
+    border: none;
+    outline: none;
+    background-color: transparent;
+
+}
+.LargeText {
+  font-family: sans-serif;
+  width: 100%;
+  font-size: 15px;
+  resize:none;
+  min-height: 15em;
+
+}
+
+.SmallEditable {
+    font-family: sans-serif;
+    margin: 0 0 0 0%;
+    width: 100%;
+    height: 30x;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #e7e7e7;
+    border-width: 2px; 
+    padding: 5px;
+    resize: none;
+    font-size: 15px;
+
+}
+
+.LargeEditable {
+  font-family: sans-serif;
+  margin-left: 0%;
+  width: 100%;
+  min-height: 10em;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #e7e7e7;
+  border-width: 2px;
+  font-size: 15px;
+}
+.LargeEditable:hover{
+   border-color: #c2c2c2;
+}
+
+.SmallEditable:hover{
+  border-color: #c2c2c2;
+}
+
+@media screen and (max-width: 600px) {
+    .aboutme-secton{
+        max-width: 100%;
+    }
+    .LargeText{
+        min-height: 10em;
+        border-bottom: 2px solid #dddddd;
+
+    }
+}
+
+

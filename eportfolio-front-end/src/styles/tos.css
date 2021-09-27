@@ -1,0 +1,143 @@
+html, body {
+    height: 100%;
+}
+
+.login {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+    background-color: #1c2237;
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: scroll;
+}
+
+.back_icon{
+    color: #fff;
+    text-decoration: none;
+}
+
+.login .container{
+    position: relative;
+    left: 0;
+    right: 0;
+    top:15%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 29em;
+}
+
+.login .log-form-box {
+    padding: 2em;
+    border: 1.5px solid black;
+    background-color: white;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.1), 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+}
+
+.login .reg-form-box {
+    position: relative;
+    padding: 1.5em;
+    left: 0;
+    right: 0;
+    top:3%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10;
+    max-height: 47em;
+    border: 1.5px solid black;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.1), 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+}
+
+.login .btn{
+    margin-top: 10px;
+    width: 50%
+}
+
+.login h2 {
+    margin-top: 0;
+}
+.login h5{
+    color:#584b42;
+}
+
+.login form {
+    margin-top: 2em;
+}
+
+.login form label .password-warning {
+    font-weight: 500;
+    color: rgb(233, 103, 89);
+    font-size: 0.8em;   
+}
+
+.login form label * {
+    margin: 0.5em 0;
+    font-weight: 600;
+}
+
+
+.login form label input {
+    border-radius: 5px;
+    width: 23em;
+    padding: 0.6em;
+    font-size: small;
+    font-weight: 500;
+    box-sizing: border-box;
+} 
+
+.login .btn-login {
+    background-color: #2f4594;
+    color: white;
+    border: 1px solid black;
+    width: 45%;
+    margin-right: 1em;
+}
+
+.login .btn-register{
+    border: 1px solid black;
+    width: 45%;
+}
+
+.login .btn-register:hover{
+    background-color:rgb(233, 103, 89);
+}
+  
+.btn-login:hover{
+    background-color: #7281b9;
+    transition: all 0.3s ease-out;
+    color: #ffffff;
+    transition: 250ms;
+}
+
+.toss {
+    background: url("../resources/images/ocean.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.toss .boxxx {
+    position: relative;
+    left: 0;
+    right: 0;
+    top:10%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+    background-color: white;
+    width: 40em;
+    height: 45em;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+
+    border: 1.5px solid black;
+    border-radius: 5px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.1), 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+
+}

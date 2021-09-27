@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot for PubFooter UI 1`] = `
+<DocumentFragment>
+  <div
+    class="footer-container"
+  >
+    <section
+      class="footer-section"
+    >
+      <div
+        class="footer-wrap"
+      >
+        <h1
+          class="site-title"
+        >
+          ePortfolio
+        </h1>
+        <small
+          class="website-rights"
+        >
+          ©UoB
+        </small>
+      </div>
+    </section>
+  </div>
+</DocumentFragment>
+`;
