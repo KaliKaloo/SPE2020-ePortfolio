@@ -9,10 +9,6 @@
 
 ---
 
-## Website
-- url: https://www.youreportfolio.uk/
-- Example Portfolio: username: suga,  password: pass
-
 ## Purpose
 - Facilitating a deepening of learning from project work, the development of self-regulated learning skills,
 and the cohering of knowledge across different projects.
